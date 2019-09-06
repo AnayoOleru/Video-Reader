@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Anayo_Oleru?style=social)
 
 # Video-Reader
-Day 14:
+Day 14: A single web-page that adds up the total number of minutes, secondss and hours of an actual video. Each video will give you like a timestamp of their time. See the results on the console.
 
 https://anayooleru.github.io/Video-Reader/
 
